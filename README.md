@@ -3,5 +3,7 @@ Code for the paper: "A neural algorithm of artistic style" by Leon A. Gatys et a
 
 [Arxiv](https://arxiv.org/abs/1508.06576)
 
+![](https://github.com/dangmanhtruong1995/A-neural-algorithm-of-artistic-style/blob/main/1.png)
+
 
 
