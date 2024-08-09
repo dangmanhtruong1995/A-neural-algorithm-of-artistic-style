@@ -5,5 +5,7 @@ Code for the paper: "A neural algorithm of artistic style" by Leon A. Gatys et a
 
 ![](https://github.com/dangmanhtruong1995/A-neural-algorithm-of-artistic-style/blob/main/1.png)
 
+![](https://github.com/dangmanhtruong1995/A-neural-algorithm-of-artistic-style/blob/main/2.png)
+
 
 
